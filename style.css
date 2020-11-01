@@ -7,14 +7,19 @@
  }
 
  
- .h1Class{
-    background-color: gray;
-    text-shadow: green;
+ 
+ h2{
+
+    color: orange;
 }
 
+#favfoods{
+    color:orangered;
+}
 img{
-    height: 300px;
-    width: 300;
+    height: 200px;
+    width: 200;
+    margin-right: 20px;
 }
 
 a{
@@ -22,7 +27,7 @@ a{
 }
 
 a:hover{
-    color yellow;
+    color: blue;
 
 }
 
